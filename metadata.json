@@ -1,0 +1,5 @@
+{
+  "name": "Asisten Toko AI",
+  "description": "Sebuah aplikasi chatbot untuk membantu karyawan toko memberikan rekomendasi produk kepada pelanggan menggunakan Gemini API. Cukup jelaskan kebutuhan pelanggan, dan AI akan memberikan saran yang relevan.",
+  "requestFramePermissions": []
+}
